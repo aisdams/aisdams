@@ -1,5 +1,5 @@
 # Hi there, I'm aisyah - aka [aisdams][youtube]✨✨✨![](https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif)
-[![Instagram Follow](https://i.postimg.cc/tC47YBKY/DESAIN-GRAFIS-INstagram.png)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Faisrdm_14&screen_name=aisrdm_14)
+[![Instagram Follow](https://i.postimg.cc/tC47YBKY/DESAIN-GRAFIS-INstagram.png)](https://www.instagram.com/aisrdm_14/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt7Zm-5VJEGPJuIgcJEbPFg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
 ## I'm a Student, Software Developer!!
