@@ -1,4 +1,4 @@
-# Hi there, I'm aisyah - aka [aisdams][youtube]✨✨✨![](https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif)
+# Hi there, I'm aisyah - [aisdams][youtube]✨✨✨![](https://media.giphy.com/media/WOwiryOPA0G6jhKqB0/giphy.gif)
 [![Instagram Follow](https://i.postimg.cc/tC47YBKY/DESAIN-GRAFIS-INstagram.png)](https://www.instagram.com/aisrdm_14/)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt7Zm-5VJEGPJuIgcJEbPFg?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 
