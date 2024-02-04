@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 ---
 <br />
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aisdams&theme=tokyonight" alt="aisdams" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aisdams&theme=tokyonight" alt="aisdams" /></p>
 ---
 📺 Latest My Favorite Gift
 
