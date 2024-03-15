@@ -1,5 +1,5 @@
 <!--
-**aisdams/aisdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prayogoris14/prayogoris14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm xixi-xtype</h1>
+<h1 align="center">Hi 👋, I'm Prayogo</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
-
-[![Instagram Follow](https://i.postimg.cc/tC47YBKY/DESAIN-GRAFIS-INstagram.png)](https://www.instagram.com/xlwntra/)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCt7Zm-5VJEGPJuIgcJEbPFg?logo=youtube&logoColor=red&style=for-the-badge)][youtube] 
 <!--![](https://komarev.com/ghpvc/?username=aisdams&color=red&style=flat-square&label=PROFILE+VIEWS) -->
 ---
 ## I'm a Web Developer!!
